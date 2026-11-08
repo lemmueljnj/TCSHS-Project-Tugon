@@ -1,0 +1,6 @@
+{
+  "name": "Project Tugon - Unified Grievance & Observation Network",
+  "description": "Technology-Enabled Unified Grievance and Observation Network for learner safety, anti-bullying, and child protection in Philippine schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
